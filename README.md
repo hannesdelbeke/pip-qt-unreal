@@ -3,3 +3,7 @@
 2. place the plugin in your unreal plugin folder
 3. enable the plugin and restart unreal.
 4. plugin button should now show in the toolbar
+
+dependencies
+- [pip-qt](https://github.com/hannesdelbeke/pip-qt)
+- [unreal-qt](https://github.com/hannesdelbeke/unreal-qt)
